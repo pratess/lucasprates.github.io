@@ -1,0 +1,21 @@
+#body{
+    background-image: url("https://animais.culturamix.com/blog/wp-content/gallery/animal-castor-1/Animal-Castor-1.gif");
+}
+.headerFile{
+    background-color: blue;
+    color: pink;
+    padding: 20px;
+}
+
+.footerFile{
+    background-color: pink;
+    color: blue;
+    padding: 20px;
+}
+
+.subtitles{
+    display: flex;
+    color: white;
+    background-color: black;
+    padding: 10px 25px;
+}
