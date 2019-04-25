@@ -18,10 +18,14 @@ h1{
     text-align: center;   
 }
 
+h2{
+    padding: 90px; 
+}
+
 ul{
   width: 300px;
-  border: 15px solid rgb(111, 185, 255);
-  padding: 50px;
+  border: 15px solid rgb(168, 212, 253);
+  padding: 90px;
   margin: 20px;
-  background-color: lightgray;
+  background-color: rgb(223, 223, 223);
 }
