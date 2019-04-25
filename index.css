@@ -1,21 +1,21 @@
 #body{
-    background-color: brown;
+    background-color: aquamarine;
 }
 .headerFile{
     background-color: blue;
     color: pink;
-    padding: 20px;
+    padding: 10px;
 }
 
 .footerFile{
     background-color: pink;
     color: blue;
-    padding: 20px;
+    padding: 10px;
 }
 
 .subtitles{
     display: flex;
     color: white;
     background-color: black;
-    padding: 10px 25px;
+    padding: 10px 15px;
 }
