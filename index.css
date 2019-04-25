@@ -23,6 +23,7 @@ h2{
 }
 
 ul{
+  text-align: center;  
   width: 300px;
   border: 10px solid rgb(168, 212, 253);
   padding: 20px;
