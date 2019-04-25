@@ -26,11 +26,11 @@ h2{
     margin: auto;
   }
 .middle{
-    margin-left: 140px;
-    margin-right: 250px;
+    margin-left: 200px;
+    margin-right: 150px;
 }
 ul{  
-  width: 250px;
+  width: 300px;
   border: 10px solid rgb(168, 212, 253);
   padding: 20px;
   margin: 20px;
