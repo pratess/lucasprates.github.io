@@ -22,8 +22,12 @@ h2{
     width: 100px;
 }
 
-ul{
-  right: 790px;  
+.center {
+    margin: auto;
+    width: 50%;
+  }
+
+ul{  
   width: 300px;
   border: 10px solid rgb(168, 212, 253);
   padding: 20px;
