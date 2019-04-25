@@ -1,5 +1,7 @@
 #body{
     background-color: rgb(234, 253, 247);
+    border: 10cm;
+    border-color: black;
 }
 .headerFile{
     padding: 10px;
